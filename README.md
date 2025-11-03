@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="ui_preview_1.png" alt="Breast Cancer Prediction App Preview" width="800"/>
+  <br><br>
+  <img src="ui_preview_2.png" alt="Breast Cancer Prediction Interface" width="800"/>
+</p>
+
+<h1 align="center">🩺 Breast Cancer Prediction System</h1>
+<p align="center">
+  <em>Deep Learning (ANN) powered tumor classification with interactive Gradio UI</em>
+</p>
+
 # 🩺 Breast Cancer Prediction using Deep Learning (ANN)
 
 A **Deep Learning–based Breast Cancer Classification System** built with **TensorFlow** and **Keras**.  
